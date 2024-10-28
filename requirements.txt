@@ -1,0 +1,6 @@
+numpy
+torch
+torchvision
+open_clip_torch
+salesforce-lavis
+ultralytics
