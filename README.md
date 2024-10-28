@@ -13,6 +13,10 @@ Make sure you have Python installed, along with the required dependencies. Insta
 ```
 pip install -r requirements.txt
 ```
+Download Aesthetic model ckpt from :
+```
+[Download ckpt](xxxx)
+```
 
 ### Running the Evaluation
 To evaluate the images, use the following command:
