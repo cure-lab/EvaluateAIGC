@@ -38,9 +38,9 @@ We also release the generated part of our annotated defect image dataset, which 
 - **2**: Defect
 
 You can download the dataset using the following link:
-```
+
 [Download Dataset](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155183733_link_cuhk_edu_hk/EX4v5IT3MxlHmuM3Q9HoNogBY-zqQWI1Ve2Ogh-MmdAgcg?e=w9kRRW)
-```
+
 
 **IMPORTANT**: This dataset contains uncomfortable content.
 
